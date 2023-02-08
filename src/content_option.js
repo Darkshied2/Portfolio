@@ -91,38 +91,38 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "https://github.com/Darkshied2/guess-number-master",
+        desctiption: "CHAT APP",
+        link: "https://penguinchat.vercel.app",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "https://github.com/Darkshied2/guess-number-master",
+        desctiption: "Text-to-Speech Converter",
+        link: "https://text-to-speech-ten.vercel.app",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "https://github.com/Darkshied2/guess-number-master",
+        desctiption: "The Word Scrambble Game",
+        link: "https://word-scramble-game-five.vercel.app",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "https://github.com/Darkshied2/guess-number-master",
+        desctiption: "The Word Game",
+        link: "https://word-game-theta.vercel.app",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "https://github.com/Darkshied2/guess-number-master",
+        desctiption: "The Typing Enhancer",
+        link: "https://typing-game3.vercel.app",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "https://github.com/Darkshied2/guess-number-master",
+        desctiption: "Typing Game 1.0",
+        link: "https://typing-game-phi-one.vercel.app",
     },
 
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Guess Number Master game.",
         link: "https://github.com/Darkshied2/guess-number-master",
     },
     {
