@@ -25,7 +25,7 @@ export const ContactUs = () => {
       email: formData.email,
       name: formData.name,
       to: contactConfig.YOUR_EMAIL,
-      messasge: formData.message,
+      message: formData.message,
     };
 
     emailjs
