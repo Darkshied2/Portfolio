@@ -158,7 +158,7 @@ const contactConfig = {
     description: "The more details about your project you include in your message, the faster I will get back to you. You’ll hear back from me within 2–4 business days.I look forward to hearing from you.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_x6uoy0o",
+    YOUR_SERVICE_ID: "sservice_lv1pmvf",
     YOUR_TEMPLATE_ID: "template_276pqwr",
     YOUR_USER_ID: "yJ802Hi3PgQi3VKtW",
 };
